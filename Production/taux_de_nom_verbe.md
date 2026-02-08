@@ -21,7 +21,13 @@
 - absences 
 - accidents
 
-### Verbs / Expressions
+### Verbs
+
+#### Adjectives & Expressions with "Être"
+- élevé → Le taux de chômage est **élevé**.
+- faible → Le taux d'intérêt est très **faible**.
+- en hausse → Le taux d'inflation est **en hausse**.
+- en baisse → Le taux de criminalité est **en baisse**.
 
 #### Hausse / Increase & Speed Up
 - augmenter → Le taux de participation **augmente** chaque année.
@@ -41,12 +47,5 @@
 #### Point Spécifique
 - atteindre → Le taux de réussite **atteint** 90%.
 
----
 
-## Context Sentences
-1. Ces dernières années, le taux de chômage dans la région a beaucoup augmenté, surtout chez les jeunes.  
-2. Les résultats des examens sont publiés demain, et le taux de réussite des étudiants en sciences a été impressionnant l'année dernière.  
-3. Grâce à la campagne de santé publique, le taux de vaccination a atteint un niveau record.  
-4. Le gouvernement a mis en place un programme de réinsertion, et le taux de récidive a légèrement diminué.  
-5. L'année dernière, le taux d'inflation a surpris les économistes par sa rapidité.  
 
