@@ -11,15 +11,14 @@
 
 ### Nouns
 - chômage
-- réussite 
+- réussite
+- naissance
 - mortalité
+- criminalité
 - récidive
 - vaccination
-- participation
 - inflation
 - croissance
-- absences 
-- accidents
 
 ### Verbs
 
